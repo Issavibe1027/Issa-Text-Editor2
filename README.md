@@ -26,6 +26,5 @@ The following image shows the apllication's caching strategies:
 
 ## Deployed Link
 
-`Note: I use Render now for hosting my school projects, on their free plan. A free plan will spin down after 15 minutes of inactivity, and the next request will spin it back up, which can take awhile. So please be patient as the site may take some time to initially load due to Render restrictions.`
 
 [Render Link](https://text-editor-gs60.onrender.com/)
